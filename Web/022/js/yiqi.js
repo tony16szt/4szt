@@ -6,28 +6,28 @@ window.onload=function(){
 	buhao.onclick=function(){
 		Dianji++;
 		if(Dianji==1){
-	   			alert("能够遇见你");
+	   			alert("我很努力很努力");
 	   }else if(Dianji==2){
-		   		alert("对我来说是最大的幸福!");
+		   		alert("我会给你我的心");
 		   		
 	   }else if(Dianji==3){
-		   		alert("有了你，我的生活变的无限宽广!");
+		   		alert("不会让你等很久");
 		   		
 	   }else if(Dianji==4){
-		   		alert("有了你，世界变得如此迷人!");
+		   		alert("我会多多给你订小蛋糕蛋挞面包榴莲汉堡炸鸡披萨和好多好多好吃的！");
 		   		
 	  }else if(Dianji==5){
-		   		alert("你是世界，世界是你!");
+		   		alert("我会时刻把你放在心里，不打扰你，又绝对不忘记你");
 	  }else if(Dianji==6){
-		   		alert("我愿意用自己的心，好好的陪着你，爱着你。");
+		   		alert("遇见你是我最幸福的事，允许我陪在你身边吧");
 	  }else if(Dianji==7){
-		   		alert("你考虑一下呗");
+		   		alert("见不到的日子里，我无时无刻不在想你");
 		  		Dianji=1;
 	  }
 
 	}
 	hao.onclick=function(){
-		alert("❤❤❤ 终于同意了，我爱你 ❤❤❤");
+		alert("愿我们一帆风顺，最后一定是你和我❤");
 	}
 	
 
